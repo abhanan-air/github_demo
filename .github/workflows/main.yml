@@ -5,9 +5,9 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: print hello
-      run: echo "hello"
+        run: echo "hello"
       - name: print step2
-      run: echo "step 2"
+        run: echo "step 2"
       
 
   
